@@ -14,3 +14,8 @@ h1 {
 .copyright {
   text-align: right;
 }
+#remember {
+  text-align: center;
+  font-size: 24px;
+  color: grey;
+}
