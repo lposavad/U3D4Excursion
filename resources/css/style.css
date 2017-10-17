@@ -1,21 +1,28 @@
 html {
     background-color: black;
     color: white;
-    font-family: sans-serif;
+    font-family: Verdana, Helvetica, sans-serif;
     text-align: center;
 }
 h1 {
-  color: white;
-  font-size: 60px;
+  font-size: 50px;
+  font-weight: normal;
+}
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+p {
+  color: gray;
+  font-size: 21px;
+}
+.bigtext {
+  font-size: 50px;
 }
 .linkstyle {
-  color: lightblue;
+  color: aquamarine;
+  font-size: 16px;
 }
-.copyright {
+.footer {
   text-align: right;
-}
-#remember {
-  text-align: center;
-  font-size: 24px;
-  color: grey;
 }
